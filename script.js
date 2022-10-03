@@ -43,7 +43,7 @@ function date() {
     date2.getMonth() +
     "-" +
     date2.getFullYear() +
-    "," +
+    "\n" +
     f;
 }
 var z = document.getElementById("greet");
