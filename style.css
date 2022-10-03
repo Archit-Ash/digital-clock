@@ -1,0 +1,10 @@
+.center {
+  text-align: center;
+  font-size: 10rem;
+}
+@media screen and (max-width: 800px) {
+  .center {
+    text-align: center;
+    font-size: 4rem;
+  }
+}
